@@ -23,4 +23,5 @@
    PROJECTS: 🔐
 
  - ~~Rave Roleplay~~
-- OB-SHOP
+ - ShotRP
+ - OB-SHOP
