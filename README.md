@@ -2,5 +2,5 @@
 
 ## SERVERS
 
-~~~Rave Roleplay~~
-Ob-shop
+# ~~Rave Roleplay~~~
+# OB-SHOP
