@@ -24,4 +24,5 @@
 
  - ~~Rave Roleplay~~
  - ShotRP
+ - NS-PROJECT
  - OB-SHOP
