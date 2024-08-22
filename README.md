@@ -23,6 +23,7 @@
    PROJECTS: 🔐
 
  - ~~Rave Roleplay~~
- - ShotRP
+ - ~~ShotRP~~
  - NS-PROJECT
+ - MagicRP
  - OB-SHOP
