@@ -22,8 +22,8 @@
 
    PROJECTS: 🔐
 
- - ~~Rave Roleplay~~
+ - ~~RaveRP~~
  - ~~ShotRP~~
+ - StormRP
  - NS-PROJECT
- - MagicRP
  - OB-SHOP
