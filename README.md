@@ -23,7 +23,6 @@
    PROJECTS: 🔐
 
  - ~~RaveRP~~
- - ~~ShotRP~~
- - StormRP
+ - ~~ShotRP~~  
  - NS-PROJECT
  - OB-SHOP
