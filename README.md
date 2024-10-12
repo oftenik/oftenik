@@ -23,6 +23,7 @@
    PROJECTS: 🔐
 
  - ~~RaveRP~~
- - ~~ShotRP~~  
+ - ~~ShotRP~~
+ - SomaticRP
  - NS-PROJECT
  - OB-SHOP
