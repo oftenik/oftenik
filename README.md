@@ -22,8 +22,5 @@
 
    PROJECTS: 🔐
 
- - ~~RaveRP~~
- - ~~ShotRP~~
- - SomaticRP
- - NS-PROJECT
- - OB-SHOP
+- RAZE ROLEPLAY
+- ?
