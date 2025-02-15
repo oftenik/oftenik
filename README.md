@@ -1,26 +1,19 @@
-<div align="center">
+# Hello, I'm Oftenik!
 
-## Hi im oftenik 👋
+Hi, I'm Oftenik – Front-End Developer / UI Developer from Poland.
 
-</div>
+## About Me
+Passionate about crafting clean and responsive user interfaces, I specialize in front-end technologies and UI design. I enjoy turning complex problems into simple, beautiful, and intuitive designs.
 
-<div align="center">
+## Skills
+- **JavaScript**
+- **HTML**
+- **CSS**
 
-### FIVEM UI DEVELOPER / FRONT-END
+## Projects
+Here are a few projects I've worked on:
+- [Project 1](#) - A brief description of what this project is about.
+- [Project 2](#) - A brief description of what this project is about.
+- [Project 3](#) - A brief description of what this project is about.
 
-</div>
-
-
- LANGUAGES: 💡
-
- - JavaScript 📃
- - Html 📃
- - CSS 📃
-
-
-#
-
-   PROJECTS: 🔐
-
-- RAZE ROLEPLAY
-- ?
+Feel free to check out my repositories to see more of my work!
