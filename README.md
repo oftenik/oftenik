@@ -1,6 +1,6 @@
 # Hello, I'm Oftenik! 👋
 
-### Hi, I'm Oftenik – Front-End Developer / UI Developer from Poland.
+### Hi, I'm Oftenik – Full-Stack Developer from Poland.
 
 ## About Me 👌
 ### ***I'm passionate about building responsive and engaging user interfaces using modern web technologies. I love tackling challenges and continuously learning new techniques to improve my craft.***
