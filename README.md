@@ -1,11 +1,7 @@
-# Hello, I'm Oftenik! 👋
+# 👋 HI, I`m Oftenik!  
+### Fivem, Full-Stack Developer From Poland
 
-### Hi, I'm Oftenik – Full-Stack Developer from Poland.
-
-## About Me 👌
-### ***I'm passionate about building responsive and engaging user interfaces using modern web technologies. I love tackling challenges and continuously learning new techniques to improve my craft.***
-
-## My Skills 🚀
+![Banner GIF](https://raw.githubusercontent.com/yourusername/yourrepository/main/images/banner.gif)
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/>
@@ -21,10 +17,23 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50"/>
 </p>
 
+## 🚀 Projects:
+
+###  ● **FOXY AI**
+###  ● **MAGIC ROLEPLAY**
+###  ● RAZE ROLEPLAY
+
+---
+
+## ⚡ GitHub Stats
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical)
 
 
-## 📞 Contact  
 
-### [![Discord](https://img.shields.io/badge/Discord-oftenik-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)
-[![Gmail](https://img.shields.io/badge/GMAIL-donoftenik@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:donoftenik@gmail.com)
+---
+
+### 📞 Kontakt:
+- **Email**: donoftenik@gmail.com
+- **Discord**: [oftenik](https://discord.gg/trkjjjS8zX) 
+
 
