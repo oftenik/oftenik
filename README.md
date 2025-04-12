@@ -1,8 +1,11 @@
-# 👋 HI, I`m Oftenik!  
-### Fivem, Full-Stack Developer From Poland
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey!+👋;+I'm+Oftenik;&color=ffffff" />
+</h1>
+
 
 ![Banner GIF](https://raw.githubusercontent.com/yourusername/yourrepository/main/images/banner.gif)
 
+<h1 align="center">Languages 📣</h1>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/>
@@ -16,6 +19,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50"/>
 </p>
+
 
 ## 🚀 Projects:
 
