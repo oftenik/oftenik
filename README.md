@@ -23,14 +23,17 @@
 
 ## 🚀 Projects:
 
-###  ● **FOXY AI**
-###  ● **MAGIC ROLEPLAY**
-###  ● RAZE ROLEPLAY
+###  ∙ **FOXY AI**
+###  ∙ **MAGIC ROLEPLAY**
+###  ∙ RAZE ROLEPLAY
 
 ---
 
 ## ⚡ GitHub Stats
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical" alt="My GitHub Stats" />
+</div>
+
 
 
 
