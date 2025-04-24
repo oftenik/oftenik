@@ -3,7 +3,6 @@
 </h1>
 
 
-![Banner GIF](https://raw.githubusercontent.com/yourusername/yourrepository/main/images/banner.gif)
 
 <h1 align="center">Languages 📣</h1>
 <p align="center">
