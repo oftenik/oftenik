@@ -21,7 +21,7 @@
 
 ###  ∙ **FOXY AI**
 ###  ∙ **MAGIC ROLEPLAY**
-###  ∙ **UN ROLEPLAY**
+###  ∙ **RIVI ROLEPLAY**
 ###  ∙ RAZE ROLEPLAY
 
 ---
