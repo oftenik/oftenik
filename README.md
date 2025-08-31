@@ -28,8 +28,9 @@
 
 ## ⚡ GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical" alt="My GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=oftenik&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical" alt="My GitHub Stats" />
 </div>
+
 
 
 
