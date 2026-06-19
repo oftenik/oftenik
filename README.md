@@ -18,10 +18,10 @@
 
 ## 🚀 Projects:
 
-###  ∙ **FOXY AI**
-###  ∙ **MAGIC ROLEPLAY**
-###  ∙ **RIVI ROLEPLAY**
-###  ∙ RAZEGG
+### ~~∙ FOXY AI~~
+### ~~∙ MAGIC ROLEPLAY~~
+### ~~∙ RIVI ROLEPLAY~~
+### **[UNLEASHRP](https://discord.gg/QuzuQy5dBy)**
 
 ---
 
