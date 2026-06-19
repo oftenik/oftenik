@@ -21,7 +21,7 @@
 ### ~~∙ FOXY AI~~
 ### ~~∙ MAGIC ROLEPLAY~~
 ### ~~∙ RIVI ROLEPLAY~~
-### **[UNLEASHRP](https://discord.gg/QuzuQy5dBy)**
+### **[UNLEASH ROLEPLAY](https://discord.gg/QuzuQy5dBy)**
 
 ---
 
